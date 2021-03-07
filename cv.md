@@ -4,7 +4,7 @@
 
 #### 3. Personal infomation: My goal to start is to become a good frontend developer, purposeful, responsible, always positive, demanding of herself, quick learner, sociable. I have no work experience, but there is a great desire to learn.
 
-#### 4. Skills: HTML, CSS, Yavascript, Python, Sublime Text, Vs code, Figma, Fotoshop, Prepros.
+#### 4. Skills: HTML, CSS, Yavascript, Python, Sublime Text, Vs code, Figma, Fotoshop, Prepros, ColorMania, Jet Brains PyCharm, Excel.
 
 ####5. Code:
 
