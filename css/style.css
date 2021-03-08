@@ -5,7 +5,7 @@
 body {
 	width: 1200px;
 	margin: 0 auto;
-	background-color: #E2E4E7;
+	background-color: #e5e9f0;
 }
 header p{
 	margin-top: 50px;
@@ -20,20 +20,21 @@ article {
 	width: 80%;
 	margin: 0 auto;
 	margin-top: 60px;
+	background-color: #E2E4E7;
 }
 .name h1 {
 	text-align: center;
 	font-size: 38px;
 }
 section {
-	margin-top: 50px;
+	margin-top: 40px;
+	padding-bottom: 30px;
 	display: flex;
 	justify-content: center;
-	/*border: 5px solid black;*/
+	border-bottom: 1px solid rgb(114, 110, 110);
 }
 section h2 {
 	width: 30%;
-	/*border: 3px solid #1e4074;*/
 }
 section p {
 	width: 50%;
@@ -44,16 +45,27 @@ section p {
 	display: flex;
 	justify-content: center;
 }
-.contacts h2{
-
-}
 .contacts ul li {
 	font-size: 20px;
-	/*border: 2px solid blue;*/
 	width: 100%;
-
 }
-
+.footer {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: center;
+	align-items: center;
+}
+.footer p {
+	margin-top: 20px;
+	border: 2px solid #b2c3db;
+}
+.footer a {
+	font-size: 20px;
+}
+.footer_create {
+	margin: 20px 0 20px 0;
+	font-style: italic;
+}
 
 
 
