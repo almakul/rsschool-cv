@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #E2E4E7;
+}
+header p{
+	margin-top: 50px;
+}
+.header_img {
+	text-align: center;
+}
+.header_img img{
+	border: 3px inset #ffffff;
+}
+article {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 60px;
+}
+.name h1 {
+	text-align: center;
+	font-size: 38px;
+}
+section {
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	/*border: 5px solid black;*/
+}
+section h2 {
+	width: 30%;
+	/*border: 3px solid #1e4074;*/
+}
+section p {
+	width: 50%;
+	margin-left: 5%;
+	font-size: 20px;
+}
+.contacts {
+	display: flex;
+	justify-content: center;
+}
+.contacts h2{
+
+}
+.contacts ul li {
+	font-size: 20px;
+	/*border: 2px solid blue;*/
+	width: 100%;
+
+}
+
+
+
+
